@@ -1,0 +1,39 @@
+.bg1{
+    background-image: url(images/mbr.jpg);
+    background-size: cover;
+}
+.logo{
+    width: 2rem;
+}
+
+a{
+    font-size: 5px;
+}
+.pg1{
+    margin-top:70px;
+    color: black;
+    margin-left: 20px;
+}
+.btn{
+    font-size: 10px;
+    background-color: peachpuff;
+    border: none;
+    border-radius: 4px;
+}
+img{
+    width: 100px;
+    size: 400px;
+    
+}
+.btn{
+    font-size: 10px;
+    background-color: peachpuff;
+    border: none;
+    border-radius: 4px;
+
+}
+.bg2{
+    margin-left: 50px;
+}
+
+
